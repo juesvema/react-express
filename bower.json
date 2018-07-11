@@ -1,0 +1,17 @@
+{
+  "name": "react-express",
+  "description": "",
+  "main": "main.js",
+  "authors": [
+    "Juanes"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/juesvema/react-express",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
